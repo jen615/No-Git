@@ -6,7 +6,7 @@ Once set up, just input
 No-Git
 (or just 'no'+tab because of PowerShell's module tab completion)
 ```
-and it's gone. Useful for things like **cargo build** that automatically initiate git.
+and it's gone. Useful for things like **cargo new** that automatically initiate git.
 
 
 ### Installation Instructions
